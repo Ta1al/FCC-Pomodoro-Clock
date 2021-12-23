@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Teko);
+body {
+  background-color: black;
+  color: white;
+  font-family: Teko, 'Roboto', sans-serif;
+}
+
+.time-display {
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 25px;
+}
+
+#buttons {
+  display: flex;
+  justify-content: center;
+  padding-left: 32%;
+  margin-top: 25px;
+}
